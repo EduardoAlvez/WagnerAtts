@@ -1,0 +1,2 @@
+# WagnerAtts
+Atividades de Paradigmas
